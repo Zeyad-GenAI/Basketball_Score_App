@@ -245,6 +245,6 @@ copies or substantial portions of the Software.
 
 **If you liked the project, don't forget to give it a ⭐ on GitHub!**
 
-[⬆️ Back to Top](#-Basketball_Score_App)
+[⬆️ Back to Top](#-basketball-score-tracker)
 
 </div>
